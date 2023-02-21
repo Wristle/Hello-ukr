@@ -1,0 +1,32 @@
+<html>
+<head>
+ <title>Hello Ukraine!</title>
+ <style>
+  body {
+   background-color: #FFFFFF;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 100vh;
+   margin: 0;
+  }
+  h1 {
+   font-size: 4em;
+   font-weight: bold;
+   text-transform: uppercase;
+   text-align: center;
+   margin: 0;
+  }
+  .hello {
+   color: #005BBB;
+  }
+  .ukraine {
+   color: #FDB813;
+   
+  }
+ </style>
+</head>
+<body>
+ <h1><span class="hello">Hello</span> <br><span class="ukraine">Ukraine</span></h1>
+</body>
+</html>
